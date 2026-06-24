@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/job-portal/static/css/main.7ee790e3.css",
+    "main.js": "/job-portal/static/js/main.eef69150.js",
+    "index.html": "/job-portal/index.html",
+    "main.7ee790e3.css.map": "/job-portal/static/css/main.7ee790e3.css.map",
+    "main.eef69150.js.map": "/job-portal/static/js/main.eef69150.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee790e3.css",
+    "static/js/main.eef69150.js"
+  ]
+}
